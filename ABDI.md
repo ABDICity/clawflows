@@ -36,5 +36,4 @@ Termasuk 113+ alur kerja otomatis pra-desain yang siap diaktifkan dalam 1 klik! 
 ### Opsi 1: Instalasi Langsung (Direkomendasikan)
 
 ```bash
-curl -fsSL [https://raw.githubusercontent.com/abdi-kaffah/clawflows/main/system/install.sh](https://raw.githubusercontent.com/abdi-kaffah/clawflows/main/system/install.sh) \
-  | bash
+curl -fsSL [https://raw.githubusercontent.com/abdi-kaffah/clawflows/main/system/install.sh](https://raw.githubusercontent.com/abdi-kaffah/clawflows/main/system/install.sh) | bash
